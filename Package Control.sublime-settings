@@ -1,0 +1,31 @@
+{
+  "auto_upgrade_last_run": null,
+  "installed_packages":
+  [
+    "AdvancedNewFile",
+    "Case Conversion",
+    "Clipboard History",
+    "CTags",
+    "Cucumber",
+    "eco",
+    "Emmet",
+    "ERB Insert and Toggle Commands",
+    "Gist",
+    "LiveReload",
+    "Missing Palette Commands",
+    "Nettuts+ Fetch",
+    "Package Control",
+    "PlainTasks",
+    "Prefixr",
+    "RSpec",
+    "Ruby Block Converter",
+    "RubyTest",
+    "SFTP",
+    "Toggle Symbol to String",
+    "ToggleQuotes"
+  ],
+  "repositories":
+  [
+    "https://github.com/davidjrice/sublime-eco.git"
+  ]
+}
